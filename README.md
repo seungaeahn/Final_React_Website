@@ -1,5 +1,9 @@
 ## React-node.js를 활용한 website
 
+###Prerequisites
+먼저 다음이 설치되어 있는지를 확인하세요.
+
+
 ### 웹사이트 설명
 
 node.js와 Express를 활용한 backend 구성
